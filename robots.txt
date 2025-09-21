@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arash-barabadi.github.io/sitemap.xml
